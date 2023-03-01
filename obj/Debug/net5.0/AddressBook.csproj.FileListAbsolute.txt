@@ -1,0 +1,16 @@
+D:\Code\server-side-mastery\AddressBook\bin\Debug\net5.0\AddressBook.exe
+D:\Code\server-side-mastery\AddressBook\bin\Debug\net5.0\AddressBook.deps.json
+D:\Code\server-side-mastery\AddressBook\bin\Debug\net5.0\AddressBook.runtimeconfig.json
+D:\Code\server-side-mastery\AddressBook\bin\Debug\net5.0\AddressBook.runtimeconfig.dev.json
+D:\Code\server-side-mastery\AddressBook\bin\Debug\net5.0\AddressBook.dll
+D:\Code\server-side-mastery\AddressBook\bin\Debug\net5.0\ref\AddressBook.dll
+D:\Code\server-side-mastery\AddressBook\bin\Debug\net5.0\AddressBook.pdb
+D:\Code\server-side-mastery\AddressBook\obj\Debug\net5.0\AddressBook.csproj.AssemblyReference.cache
+D:\Code\server-side-mastery\AddressBook\obj\Debug\net5.0\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\server-side-mastery\AddressBook\obj\Debug\net5.0\AddressBook.AssemblyInfoInputs.cache
+D:\Code\server-side-mastery\AddressBook\obj\Debug\net5.0\AddressBook.AssemblyInfo.cs
+D:\Code\server-side-mastery\AddressBook\obj\Debug\net5.0\AddressBook.csproj.CoreCompileInputs.cache
+D:\Code\server-side-mastery\AddressBook\obj\Debug\net5.0\AddressBook.dll
+D:\Code\server-side-mastery\AddressBook\obj\Debug\net5.0\ref\AddressBook.dll
+D:\Code\server-side-mastery\AddressBook\obj\Debug\net5.0\AddressBook.pdb
+D:\Code\server-side-mastery\AddressBook\obj\Debug\net5.0\AddressBook.genruntimeconfig.cache
