@@ -4,11 +4,13 @@ namespace AddressBook
 {
     public class AddressBook
     {
-        Dictionary<string, Contact> Contacts = new Dictionary<string, Contact>();
+        Dictionary<string, Contact> Contacts = new();
 
         public void AddContact(Contact contact)
         {
-            Contacts[contact.Email] = contact;
+            Contacts.Add(contact.Email, contact);
+            // which does the same thing as this:
+            // Contacts[contact.Email] = contact;
         }
 
         public Contact GetByEmail(string email)
