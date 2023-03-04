@@ -6,6 +6,9 @@ namespace AddressBook
     {
         Dictionary<string, Contact> Contacts = new();
 
+        // new shorthand cuts some redundancy vs. the following:
+        // Dictionary<string, Contact> Contacts = new Dictionary<string, Contact>();
+
         public void AddContact(Contact contact)
         {
             Contacts.Add(contact.Email, contact);

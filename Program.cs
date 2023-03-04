@@ -42,12 +42,18 @@ namespace AddressBook
 
             // Create an AddressBook and add some contacts to it
             AddressBook addressBook = new AddressBook();
-            addressBook.AddContact(bob);
-            addressBook.AddContact(sue);
-            addressBook.AddContact(juan);
-
-            // Try to add a contact a second time
-            addressBook.AddContact(sue);
+            try
+            {
+                addressBook.AddContact(bob);
+                addressBook.AddContact(sue);
+                addressBook.AddContact(juan);
+                // Try to add a contact a second time
+                addressBook.AddContact(sue);
+            }
+            catch (ArgumentException)
+            {
+                Console.WriteLine("Duplicate contact found. Skipping...");
+            }
 
             // Create a list of emails that match our Contacts
             List<string> emails = new List<string>()
